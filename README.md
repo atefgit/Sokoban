@@ -50,3 +50,4 @@ Sélection de niveau :
 Modifier le fichier index.html pour ajouter une liste déroulante et un bouton "charger" permettant de choisir un niveau parmi d'autres, liés à des fichiers JSON sous jacents. 
 Sauvegarde et chargement de la progression :
 Possibilité de sauvegarder l’état actuel du niveau pour reprendre plus tard.
+![image](https://github.com/user-attachments/assets/9bb7c515-e55a-4f87-a16a-5db946a97b49)
